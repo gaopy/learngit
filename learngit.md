@@ -1,7 +1,5 @@
----
-title: github for windows 学习笔记
-tags: github,笔记
-grammar_cjkRuby: true
+#github for windows  
+学习笔记
 ---
 
 ## 配置github
