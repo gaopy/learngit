@@ -1,8 +1,5 @@
----
-title: github for windows 学习笔记
-tags: github,笔记
-grammar_cjkRuby: true
----
+#github 学习笔记
+----
 
 ## 配置github
 1. github 安装 [官方下载地址][1]
@@ -86,6 +83,5 @@ $git reset --hard <commit>
 $git reset <commit>
 $git reset --keep <commit>
 ```
-branch test.
 
   [1]: https://git-for-windows.github.io/
